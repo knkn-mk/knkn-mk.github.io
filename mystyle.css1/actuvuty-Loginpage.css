@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    padding: auto;
+}
+.box1{
+    background-color: palevioletred;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    padding: 40px
+}
+.box2{
+    background-color: pink;
+    width: 450px;
+    height: 250px;
+    margin: auto;
+    padding: 25px;
+}    
+.form-box{
+    background-color: white;
+    border: 1px solid black;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    padding: 25px;
+}
+h2{
+    background-color: pink;
+    color: white;
+    text-align: center;
+    width: 400px;  
+    margin: 0;
+}
+label, input{
+    text-align: center;
+}
+input:hover{
+    background-color: pink;
+}
+footer{
+    position: relative;
+}
+.btn_submit:hover{
+    background-color: pink;
+    color: white;
+    width: 150px;
+    cursor: pointer;
+}
+.btn_submit{
+    width: 150px;
+}
