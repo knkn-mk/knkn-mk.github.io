@@ -1,0 +1,22 @@
+.county-table{
+    width: 80%;
+    border-collapse: collapse;
+    empty-cells: show;
+}
+.county-table tr th{
+    background-color: green;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: cenyer;
+    border: 1px solid green;
+}
+.county-table tr td{
+    border: 1px solid green;
+    text-align: center;
+}
+.county-table tr:nth-child(even){
+    background-color: lightgrey;
+}
+.county-table tr td:hover{
+    background-color: yellow;
+}

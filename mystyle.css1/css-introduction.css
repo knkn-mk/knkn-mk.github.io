@@ -1,0 +1,20 @@
+p.para1{
+    color: green;
+}
+p{
+    color: red;
+}
+/* ul li a{
+    color: green;
+    text-decoration: none;
+} */
+.parent-ul li a{
+    color: yellow;
+    text-decoration: none;
+    font-size: 35px;
+}
+.sal{
+    font-size: 30px;
+    color: rgba(236, 148, 137, 1);
+    text-transform: uppercase;
+}

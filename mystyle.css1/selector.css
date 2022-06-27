@@ -1,0 +1,52 @@
+body{
+    background-color: lightgray;
+    text-align: center;
+}
+
+h2{
+    background-color: black;
+    color: white;
+    text-align: right;
+}
+p{
+    line-height: 200%;
+}
+.letter-space1{
+    letter-spacing: 5px;
+}
+.letter-space2{
+    letter-spacing: 10px;
+}
+.letter-space3{
+    letter-spacing: 15px;
+}
+.letter-space4{
+    letter-spacing: 20px;
+}
+.letter-space5{
+    letter-spacing: 50px;
+}
+.word-spacing-1{
+    word-spacing: 10px;
+}
+.word-spacing-2{
+    word-spacing: 15px;  
+}
+.word-spacing-3{
+    word-spacing: 20px;
+}
+.word-spacing-4{
+    word-spacing: 25px;
+}
+
+ul li{
+    /* list-style-type: decimal-leding-zero;
+    list-style-position: outside; */
+    list-style-type:lower-roman;
+}
+
+.my-div{
+    background-image: url('');
+    width: 300px;
+    height: 300px;
+}
